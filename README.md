@@ -1,5 +1,5 @@
-# Fire-Sale
-Empirically estimate the effect of mutual fund flows on stock prices using data at the stock-month level。
+# Fire Sale
+An empirically estimation on the effect of mutual fund flows on stock prices using data at the stock-month level。
 ## Parameters 
 The data source contains a panel dataset at the stock-month level with the following variable:
 + *permno:* Stock identifier
